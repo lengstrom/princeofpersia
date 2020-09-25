@@ -1,0 +1,286 @@
+{
+	"DeptShank" : {
+		"aeroastro" : {
+			"CourseNr" : "16",
+			"Abbrev.File" : "aeroastro",
+			"Dept.Name" : "Aeronautics and Astronautics",
+			"SymbolDesc.use" : "The GradRat Aero-Astro symbol is an adaptation of the department logo with features representing the creation of critical and complex aerospace and related engineering systems. "
+		},
+		"arch.planning" : {
+			"CourseNr" : "4",
+			"Abbrev.File" : "arch.planning",
+			"Dept.Name" : "Architecture",
+			"SymbolDesc.use" : "Two primordial tools of the architect, a t-ruler and a triangle, form an important number for Architecture majors."
+		},
+		"ACT" : {
+			"CourseNr" : "ACT",
+			"Abbrev.File" : "ACT",
+			"Dept.Name" : "Arts, Culture and Technology",
+			"SymbolDesc.use" : "Designed by the department's students."
+		},
+		"BE" : {
+			"CourseNr" : "20",
+			"Abbrev.File" : "BE",
+			"Dept.Name" : "Biological Engineering",
+			"SymbolDesc.use" : "In this symbol, we highlight how BE students explore biology through the lense of an engineer."
+		},
+		"BIO" : {
+			"CourseNr" : "7",
+			"Abbrev.File" : "BIO",
+			"Dept.Name" : "Biology",
+			"SymbolDesc.use" : "The DNA double-helix represents biology majors."
+		},
+		"BCS" : {
+			"CourseNr" : "9",
+			"Abbrev.File" : "BCS",
+			"Dept.Name" : "Brain and Cognitive Sciences",
+			"SymbolDesc.use" : "The Brain and Cognitive Sciences seal is a stylized human brain. Though many other neural systems are studied in BCS, all members of the community are united by a common goal of understanding the mechanisms that give rise to the human mind. The four main lobes of the neocortex are depicted, with certain junctions emphasized to spell out the course number of the department, 9."
+		},
+		"CCE" : {
+			"CourseNr" : "CCE",
+			"Abbrev.File" : "CCE",
+			"Dept.Name" : "Center for Computational Engineering",
+			"SymbolDesc.use" : "Graduate students in the Center for Computational Engineering decided to adopt their official department logo on the GradRat.  The CCE logo shows the discretization of a hollow square domain by adaptive mesh refinement, an algorithm central to numerical simulation."
+		},
+		"CRE" : {
+			"CourseNr" : "CRE",
+			"Abbrev.File" : "CRE",
+			"Dept.Name" : "Center for Real Estate Program",
+			"SymbolDesc.use" : "Designed by the department's students."
+		},
+		"ChemE" : {
+			"CourseNr" : "10",
+			"Abbrev.File" : "ChemE",
+			"Dept.Name" : "Chemical Engineering",
+			"SymbolDesc.use" : "Chemistry is depicted by the beaker and engineering by the cog."
+		},
+		"CHEM" : {
+			"CourseNr" : "5",
+			"Abbrev.File" : "CHEM",
+			"Dept.Name" : "Chemistry",
+			"SymbolDesc.use" : "The shank representing the Chemistry Department features the periodic table and an Erlenmeyer flask (half full)"
+		},
+		"CEE" : {
+			"CourseNr" : "1",
+			"Abbrev.File" : "CEE",
+			"Dept.Name" : "Civil and Environmental Engineering",
+			"SymbolDesc.use" : "Graduate students in the civil engineering department decided to adopt their new department logo. The CCE logo shows the discretization of a hollow square domain by adaptive mesh refinement, an algorithm central to numerical simulation.  Read more about the design here: https://www.linkedin.com/pulse/our-new-logo-how-we-got-markus-j-buehler/?trk=hb_ntf_MEGAPHONE_ARTICLE_POST"
+		},
+		"CMS" : {
+			"CourseNr" : "CMS",
+			"Abbrev.File" : "CMS",
+			"Dept.Name" : "Comparative Media Studies Program",
+			"SymbolDesc.use" : "Comparative Media Studies/Writing cultivates thinkers who interrogate the technologies, representations, and messages that make up the media landscape of contemporary life. We question the ordinary and the everyday, represented here by the Wi-Fi-symbol-turned-question-mark, in order to uncover the unknown and the unexpected."
+		},
+		"CSBi" : {
+			"CourseNr" : "CSB",
+			"Abbrev.File" : "CSBi",
+			"Dept.Name" : "Computation and Systems Biology",
+			"SymbolDesc.use" : "Designed by the department's students."
+		},
+		"CDO" : {
+			"CourseNr" : "CDO",
+			"Abbrev.File" : "CDO",
+			"Dept.Name" : "Computation for Design and Optimization",
+			"SymbolDesc.use" : "The curriculum design choice for MIT graduate program, Computation for Design and Optimization (CDO)."
+		},
+		"EAPS" : {
+			"CourseNr" : "12",
+			"Abbrev.File" : "EAPS",
+			"Dept.Name" : "Earth, Atmospheric and Planetary Sciences",
+			"SymbolDesc.use" : "EAPS students study the Earth, and their feedback said they wanted the Earth in their icon, so the Earth it is."
+		},
+		"Econ" : {
+			"CourseNr" : "14",
+			"Abbrev.File" : "Econ",
+			"Dept.Name" : "Economics",
+			"SymbolDesc.use" : "Economics is about understanding numbers and representing them, usually in a graph. This graph shows a positive outcome after being at MIT!"
+		},
+		"EECS" : {
+			"CourseNr" : "6",
+			"Abbrev.File" : "EECS",
+			"Dept.Name" : "Electrical Engineering and Computer Science",
+			"SymbolDesc.use" : "This logo depicts an oscilloscope, used for measuring signals, in the shape of a computer to bring together the two sides of the EECS department"
+		},
+		"EMBA" : {
+			"CourseNr" : "EMBA",
+			"Abbrev.File" : "EMBA",
+			"Dept.Name" : "Executive MBA",
+			"SymbolDesc.use" : "Designed by the department's students."
+		},
+		"HST" : {
+			"CourseNr" : "HST",
+			"Abbrev.File" : "HST",
+			"Dept.Name" : "Health, Science and Technology",
+			"SymbolDesc.use" : "The HST seal is derived from the serpent-entwined Rod of Asclepius, which is a classical symbol associated with the medical profession. Here, the serpent goes around a test tube, representing HST's dual focus on science and medicine."
+		},
+		"HASTS" : {
+			"CourseNr" : "HAST",
+			"Abbrev.File" : "HASTS",
+			"Dept.Name" : "History, Anthropology, and Science, Technology and Society",
+			"SymbolDesc.use" : "Science (DNA), technology (Sputnik as high technology, and an amphora as everyday technology), and society (the globe) are intertwined. Below, a two headed arrow represents past and future, with a central tic for the ethnographic present."
+		},
+		"humanities" : {
+			"CourseNr" : "21",
+			"Abbrev.File" : "humanities",
+			"Dept.Name" : "Humanities",
+			"SymbolDesc.use" : "MIT Humanities encompass a large range of studies: music and theater arts, literature, writing, anthropology, and foreign languages. We put as many symbols as possible into this icon to put together the many parts that make up a Course 21 student."
+		},
+		"IDSS" : {
+			"CourseNr" : "IDS",
+			"Abbrev.File" : "IDSS",
+			"Dept.Name" : "Institute for Data, Systems and Society",
+			"SymbolDesc.use" : "The bar graph represents the importance of data and data analysis to this department's work. The human stick figures represent the inclusion of society, human behavior, and policy in this department's research. And lastly, the Cog represents the systems level analysis and systems thinking used by the IDSS."
+		},
+		"IDM" : {
+			"CourseNr" : "IDM",
+			"Abbrev.File" : "IDM",
+			"Dept.Name" : "Integrated Design and Management",
+			"SymbolDesc.use" : "Designed by the department's students."
+		},
+		"LGO" : {
+			"CourseNr" : "LGO",
+			"Abbrev.File" : "LGO",
+			"Dept.Name" : "Leaders for Global Operation",
+			"SymbolDesc.use" : "LGO already has a logo that represents them, it is used here"
+		},
+		"LING" : {
+			"CourseNr" : "24",
+			"Abbrev.File" : "LING",
+			"Dept.Name" : "Linguistics and Philosophy",
+			"SymbolDesc.use" : "Linguistics is clearly shown by the sound waves comming off the silhouette of a human face. Philosophy asks and tries to answer many questions, mostly about the human being; a subtle question mark in the icon represents philosophy."
+		},
+		"course15" : {
+			"CourseNr" : "15",
+			"Abbrev.File" : "course15",
+			"Dept.Name" : "Management (Sloan School)",
+			"SymbolDesc.use" : "The pyramid was chosen to represent how the strong foundation we have built at MIT will support our future ambitions. The pyramid is left unfinished to represent that we will continue to grow and develop after graduation."
+		},
+		"MSMS" : {
+			"CourseNr" : "MSMS",
+			"Abbrev.File" : "MSMS",
+			"Dept.Name" : "Master of Science in Management Studies",
+			"SymbolDesc.use" : "Designed by the department's students."
+		},
+		"MST" : {
+			"CourseNr" : "MST",
+			"Abbrev.File" : "MST",
+			"Dept.Name" : "Master of Science in Transportation",
+			"SymbolDesc.use" : "Designed by the department's students."
+		},
+		"MLOG" : {
+			"CourseNr" : "MLOG",
+			"Abbrev.File" : "MLOG",
+			"Dept.Name" : "Masters of Engineering in Logistics",
+			"SymbolDesc.use" : "The existing logo of the MLOG program was a perfect choice for the MLOG icon."
+		},
+		"MSE" : {
+			"CourseNr" : "3",
+			"Abbrev.File" : "MSE",
+			"Dept.Name" : "Materials Science and Engineering",
+			"SymbolDesc.use" : "Materials Science and Engineering understands structures, bonds, and interfaces. DMSE's logo incorporates hexagons, cubes, and triangles, inspired in part by the structures of various materials, as well as the MSE tetrahedron expressing the connection between structures, properties, processing, and performance."
+		},
+		"math" : {
+			"CourseNr" : "18",
+			"Abbrev.File" : "math",
+			"Dept.Name" : "Mathematics",
+			"SymbolDesc.use" : "The simplicity of this symbol is both elegant and full of meaning: it denotes the ring of integers, uniquely appropriate both for math and for the ring."
+		},
+		"MechE" : {
+			"CourseNr" : "2",
+			"Abbrev.File" : "MechE",
+			"Dept.Name" : "Mechanical Engineering",
+			"SymbolDesc.use" : ""
+		},
+		"MAS" : {
+			"CourseNr" : "MAS",
+			"Abbrev.File" : "MAS",
+			"Dept.Name" : "Media, Arts and Sciences Program",
+			"SymbolDesc.use" : "The simple MAS logo."
+		},
+		"MicroBio" : {
+			"CourseNr" : "M",
+			"Abbrev.File" : "MicroBio",
+			"Dept.Name" : "Microbiology",
+			"SymbolDesc.use" : "Microbiology symbolized by a phage - an abundant and powerful force of nature"
+		},
+		"NE" : {
+			"CourseNr" : "NE",
+			"Abbrev.File" : "NE",
+			"Dept.Name" : "Naval Engineering",
+			"SymbolDesc.use" : "Students from the Naval Engeineering program chose this propeller as their icon."
+		},
+		"NSE" : {
+			"CourseNr" : "22",
+			"Abbrev.File" : "NSE",
+			"Dept.Name" : "Nuclear Science and Engineering",
+			"SymbolDesc.use" : "The atomic symbol for Nuclear Science and Engineering features a nuclear system including a nucleus and surrounding electrons. The mass of a nuclear system is converted to nuclear energy."
+		},
+		"OR" : {
+			"CourseNr" : "OR",
+			"Abbrev.File" : "OR",
+			"Dept.Name" : "Operations Research",
+			"SymbolDesc.use" : "This is a simplified logo for the Operations Research Center, which both spells out ORC and is a magnifying glass. (It is not a Q, contrary to popular belief.)"
+		},
+		"physics" : {
+			"CourseNr" : "8",
+			"Abbrev.File" : "physics",
+			"Dept.Name" : "Physics",
+			"SymbolDesc.use" : "There are many icons that could represent physicists; with substantial help from Course 8 students, we found one that is still obviously physics, but by its complexity represent the uniqueness of MIT students too: a feynman diagram depicting an intermediate stage (graduate school)."
+		},
+		"PS" : {
+			"CourseNr" : "17",
+			"Abbrev.File" : "PS",
+			"Dept.Name" : "Political Sciences",
+			"SymbolDesc.use" : ""
+		},
+		"SW" : {
+			"CourseNr" : "SW",
+			"Abbrev.File" : "SW",
+			"Dept.Name" : "Science Writing",
+			"SymbolDesc.use" : "A fountain pen, the quintessential symbol of the writing craft, is seen here ascending like a rocket into space towards an atom—a classic symbol of scientific knowledge—that awaits, star-like, to receive it. The 21W GPSW logo thus represents Science Writers' constant exploration of the world through their profession."
+		},
+		"STS" : {
+			"CourseNr" : "STS",
+			"Abbrev.File" : "STS",
+			"Dept.Name" : "Science, Technology and Society",
+			"SymbolDesc.use" : "The star above STS symbolizes the union of Science (the rounded element), Technology (the pointy start), and Society (the union)."
+		},
+		"SF" : {
+			"CourseNr" : "SF",
+			"Abbrev.File" : "SF",
+			"Dept.Name" : "Sloan Fellows",
+			"SymbolDesc.use" : "Members of the Sloan Fellows groups requested and approved this icon."
+		},
+		"SCM" : {
+			"CourseNr" : "SCM",
+			"Abbrev.File" : "SCM",
+			"Dept.Name" : "Supply Chain Management",
+			"SymbolDesc.use" : "The image represents the logo of the department."
+		},
+		"SDM" : {
+			"CourseNr" : "SDM",
+			"Abbrev.File" : "SDM",
+			"Dept.Name" : "Systems Design and Management Program",
+			"SymbolDesc.use" : "SDM already has a logo that represents them, it is used here."
+		},
+		"TPP" : {
+			"CourseNr" : "TPP",
+			"Abbrev.File" : "TPP",
+			"Dept.Name" : "Technology and Policy Program",
+			"SymbolDesc.use" : "TPP requested that we use their own logo, shown here."
+		},
+		"DUSP" : {
+			"CourseNr" : "11",
+			"Abbrev.File" : "DUSP",
+			"Dept.Name" : "Urban Studies and Planning",
+			"SymbolDesc.use" : ""
+		},
+		"WHOI" : {
+			"CourseNr" : "WHOI",
+			"Abbrev.File" : "WHOI",
+			"Dept.Name" : "Woods Hole Oceanographic Institute",
+			"SymbolDesc.use" : "This image is an iconic representation of the sailboat used in the official WHOI logo."
+		}
+	}
+}
